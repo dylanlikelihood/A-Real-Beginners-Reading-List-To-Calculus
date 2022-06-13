@@ -1,4 +1,4 @@
-# A Real Begginers Reading List To Calculus
+# A Real Beginners Reading List To Calculus
 + ## Introductory Calculus Books For Continuing With Statistics 
 - [Calculus Made Easy](https://www.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480/ref=sr_1_1?crid=1GDMVRP9WXGYP&keywords=calculus+made+easy&qid=1650670370&sprefix=calculus+made+easy%2Caps%2C140&sr=8-1)
 - [Calculus for the Practical Man](https://www.amazon.com/Calculus-Practical-Man-J-Thompson/dp/1406756725/ref=sr_1_1?keywords=calculus+for+the+practical+man&qid=1650670399&sprefix=Calculus+for+the+pr%2Caps%2C135&sr=8-1)
